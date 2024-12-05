@@ -72,6 +72,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 
 **Developer**: Surath Chowdhury  
-**Email**: (mailto:your-surath172003@gmail.com)
+**Email**: [(mailto:your-surath172003@gmail.com)]
 **GitHub**: (https://github.com/Surath83)
 
