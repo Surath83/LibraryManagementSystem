@@ -52,19 +52,6 @@ A comprehensive full-stack library management software designed to handle admini
 
 ---
 
-## Folder Structure
-
-```plaintext
-library-management-system/
-├── src/          # Java source files
-├── database/     # SQL files
-├── resources/    # Images and additional assets
-├── README.md     # Project documentation
-└── config.properties # Database configuration
-```
-
----
-
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -85,6 +72,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 
 **Developer**: Surath Chowdhury  
-**Email**: [your-surath172003@gmail.com](mailto:your-email@example.com)  
-**GitHub**: [[https://github.com/yourusername](https://github.com/yourusername)](https://github.com/Surath83)
+**Email**: (mailto:your-surath172003@gmail.com)
+**GitHub**: (https://github.com/Surath83)
 
