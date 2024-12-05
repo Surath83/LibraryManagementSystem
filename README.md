@@ -32,7 +32,7 @@ A comprehensive full-stack library management software designed to handle admini
 
 1. **Clone the Repository**
    ```bash
-   [git clone https://github.com/yourusername/library-management-system.git](https://github.com/Surath83/LibraryManagementSystem)
+   [git clone https://github.com/Surath83/LibraryManagementSystem]
    ```
 
 2. **Set Up the Database**
